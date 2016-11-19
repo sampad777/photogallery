@@ -24,7 +24,7 @@ echo $user->full_name();
         echo "Name: ".$user['first_name']." ".$user['last_name']."<br /><br />";
     }
 
-    echo "Добавим новые изменения в файл";
+    echo "Add changes to file";
 
 
 ?>
