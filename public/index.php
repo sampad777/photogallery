@@ -27,6 +27,7 @@ echo $user->full_name();
     echo "Add changes to file";
     echo "Еще одно изменение";
     echo "Следующее изменение";
+    echo "Четвертое изменение";
 
 
 ?>
